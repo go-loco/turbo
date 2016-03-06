@@ -1,8 +1,7 @@
 package mytest
 
-import "fmt"
+import "github.com/xzip/turbolib"
 
-func foo(){
-	fmt.Println("foo")
+func foo() {
+	turbolib.Lib()
 }
-
