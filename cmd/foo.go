@@ -1,7 +1,7 @@
-package mytest
+package main
 
 import "github.com/xzip/turbolib"
 
-func foo() {
+func main() {
 	turbolib.Lib()
 }
