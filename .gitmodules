@@ -1,3 +1,0 @@
-[submodule "vendor/github.com/xzip/turbolib"]
-	path = vendor/github.com/xzip/turbolib
-	url = https://github.com/xzip/turbolib.git
