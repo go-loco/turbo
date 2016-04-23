@@ -1,6 +1,6 @@
 package main
 
-import "github.com/xzip/turbolib"
+import "github.com/go-loco/turbolib"
 
 func main() {
 	turbolib.Lib()
